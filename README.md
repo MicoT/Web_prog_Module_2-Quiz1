@@ -3,4 +3,4 @@ Made by: John Mico P. Tongco
 
 # Please Note!
 
-Main html file is at src folder.
+Main html file is at main folder.
